@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
         List<Car> cars = new ArrayList<>();
 
         System.out.println("Введите данные 3 автомобилей:");
